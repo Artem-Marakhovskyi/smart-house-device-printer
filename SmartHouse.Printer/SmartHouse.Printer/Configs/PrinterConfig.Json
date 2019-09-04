@@ -1,0 +1,15 @@
+﻿{
+  "mac": "2141234",
+  "Name": "Printer",
+  "On": {
+    "ConnectionId": "1",
+    "Name": "On",
+    "Address": "On"
+
+  },
+  "Off": {
+    "ConnectionId": "2",
+    "Name": "Off",
+    "Address": "Off"
+  }
+}
